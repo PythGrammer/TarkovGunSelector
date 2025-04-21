@@ -1,0 +1,28 @@
+C:\Users\belin\Desktop\C#\TarkovGunPicker\bin\Debug\net8.0\TarkovGunPicker.exe
+C:\Users\belin\Desktop\C#\TarkovGunPicker\bin\Debug\net8.0\TarkovGunPicker.deps.json
+C:\Users\belin\Desktop\C#\TarkovGunPicker\bin\Debug\net8.0\TarkovGunPicker.runtimeconfig.json
+C:\Users\belin\Desktop\C#\TarkovGunPicker\bin\Debug\net8.0\TarkovGunPicker.dll
+C:\Users\belin\Desktop\C#\TarkovGunPicker\bin\Debug\net8.0\TarkovGunPicker.pdb
+C:\Users\belin\Desktop\C#\TarkovGunPicker\obj\Debug\net8.0\TarkovGunPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belin\Desktop\C#\TarkovGunPicker\obj\Debug\net8.0\TarkovGunPicker.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C#\TarkovGunPicker\obj\Debug\net8.0\TarkovGunPicker.AssemblyInfo.cs
+C:\Users\belin\Desktop\C#\TarkovGunPicker\obj\Debug\net8.0\TarkovGunPicker.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C#\TarkovGunPicker\obj\Debug\net8.0\TarkovGunPicker.dll
+C:\Users\belin\Desktop\C#\TarkovGunPicker\obj\Debug\net8.0\refint\TarkovGunPicker.dll
+C:\Users\belin\Desktop\C#\TarkovGunPicker\obj\Debug\net8.0\TarkovGunPicker.pdb
+C:\Users\belin\Desktop\C#\TarkovGunPicker\obj\Debug\net8.0\TarkovGunPicker.genruntimeconfig.cache
+C:\Users\belin\Desktop\C#\TarkovGunPicker\obj\Debug\net8.0\ref\TarkovGunPicker.dll
+C:\Users\belin\Desktop\C#\TarkovGunSelector V2\bin\Debug\net8.0\TarkovGunPicker.exe
+C:\Users\belin\Desktop\C#\TarkovGunSelector V2\bin\Debug\net8.0\TarkovGunPicker.deps.json
+C:\Users\belin\Desktop\C#\TarkovGunSelector V2\bin\Debug\net8.0\TarkovGunPicker.runtimeconfig.json
+C:\Users\belin\Desktop\C#\TarkovGunSelector V2\bin\Debug\net8.0\TarkovGunPicker.dll
+C:\Users\belin\Desktop\C#\TarkovGunSelector V2\bin\Debug\net8.0\TarkovGunPicker.pdb
+C:\Users\belin\Desktop\C#\TarkovGunSelector V2\obj\Debug\net8.0\TarkovGunPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belin\Desktop\C#\TarkovGunSelector V2\obj\Debug\net8.0\TarkovGunPicker.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C#\TarkovGunSelector V2\obj\Debug\net8.0\TarkovGunPicker.AssemblyInfo.cs
+C:\Users\belin\Desktop\C#\TarkovGunSelector V2\obj\Debug\net8.0\TarkovGunPicker.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C#\TarkovGunSelector V2\obj\Debug\net8.0\TarkovGunPicker.dll
+C:\Users\belin\Desktop\C#\TarkovGunSelector V2\obj\Debug\net8.0\refint\TarkovGunPicker.dll
+C:\Users\belin\Desktop\C#\TarkovGunSelector V2\obj\Debug\net8.0\TarkovGunPicker.pdb
+C:\Users\belin\Desktop\C#\TarkovGunSelector V2\obj\Debug\net8.0\TarkovGunPicker.genruntimeconfig.cache
+C:\Users\belin\Desktop\C#\TarkovGunSelector V2\obj\Debug\net8.0\ref\TarkovGunPicker.dll

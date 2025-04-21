@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JSNRRkFJmA29zs5lG21qWPYTSh8K+Jvzc7QnkcoVpB8OH6HMIfYjjXjlNgfkb0E9VPCvG+KGp0+dy3aGIXgsFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\belin\\Desktop\\C#\\TarkovGunSelector V2\\TarkovGunPicker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\belin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.5\\microsoft.netcore.app.runtime.win-x86.8.0.5.nupkg.sha512",
+    "C:\\Users\\belin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.5\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.5.nupkg.sha512",
+    "C:\\Users\\belin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.5\\microsoft.aspnetcore.app.runtime.win-x86.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

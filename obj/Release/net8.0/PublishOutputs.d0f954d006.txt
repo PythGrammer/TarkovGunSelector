@@ -1,0 +1,5 @@
+C:\Users\belin\Desktop\C#\TarkovGunSelector V2\bin\Release\x64\TarkovGunPicker.exe
+C:\Users\belin\Desktop\C#\TarkovGunSelector V2\bin\Release\x64\TarkovGunPicker.dll
+C:\Users\belin\Desktop\C#\TarkovGunSelector V2\bin\Release\x64\TarkovGunPicker.deps.json
+C:\Users\belin\Desktop\C#\TarkovGunSelector V2\bin\Release\x64\TarkovGunPicker.runtimeconfig.json
+C:\Users\belin\Desktop\C#\TarkovGunSelector V2\bin\Release\x64\TarkovGunPicker.pdb
