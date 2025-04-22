@@ -1,5 +1,8 @@
-﻿string? slot="all";
+﻿using System.Threading.Channels;
+
+string? slot="all";
 string? guntype="all";
+int num = 1;
 
 Dictionary<string, (string,string)> guns = new();
 guns["AK-12"] = ("primary", "assault rifle");
@@ -192,7 +195,7 @@ string[] gunsInTarkov = new string[] {
 
 while (true)
 {
-    Console.WriteLine("Type G to generate gun, p to print all guns and attributes or any other button to change filters!");
+    Console.WriteLine("Type g to generate gun, p to print all guns and attributes or any other button to change filters!");
     Console.ForegroundColor = ConsoleColor.Yellow;
     Console.Write("Current filter: Slot: " + slot.ToUpper()+" ; Guntype: " + guntype.ToUpper());
     Console.ResetColor();
@@ -200,7 +203,26 @@ while (true)
     ConsoleKey k = Console.ReadKey(true).Key;
     if(k == ConsoleKey.G)
     {
-        PickWeapon(slot, guntype);
+        while (true) {
+            Console.Write("Type the number of weapons that should be generated: ");
+            string user = Console.ReadLine()!;
+            bool ok = int.TryParse(user, out num);
+            if (ok && num > 0)
+            {
+                for (int i = 0; i < num; i++)
+                {
+                    PickWeapon(slot, guntype);
+                }
+                break;
+            }
+            else
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("The input must be an natural number bigger than 0!");
+                Console.ResetColor();
+            }
+        }
+        
     }
     else if(k == ConsoleKey.P)
     {
