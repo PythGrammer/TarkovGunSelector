@@ -1,0 +1,2 @@
+V2: The base program
+V2.1: Added ability to generate more than one weapon at a time and added the changelog
